@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Mega&display=swap');
+
+:root{
+  --primary-dark:rgba(255,255,255,0)
+}
+
+
+body{
+font-family: 'Lexend Mega', sans-serif;
+}
+
+
+nav a.nav-link{
+  font-weight: 200;
+  font-size: .8rem;
+  /* letter-spacing: 0.0375rem; */
+  cursor:pointer;
+}
+
+nav ul li{
+  text-transform: uppercase;
+
+}
+.navbar-nav > li > a{
+  margin: 0 .75rem;
+  color: #fff !important;
+  border-top: .1875rem solid var(--primary-dark);
+}
+.navbar-brand{
+  max-width: 17.25rem;
+  padding: 0 !important;
+  height: 3rem !important;
+}
+.navbar-nav > li > a.active , .navbar-nav > li > a.active:focus{
+  border-top: .1875rem solid #EB5D13
+  }
+  .navbar-nav > li > a:hover{
+    border-top: .1875rem solid #EB5D13
+    }
