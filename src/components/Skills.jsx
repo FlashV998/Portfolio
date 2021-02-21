@@ -1,6 +1,7 @@
 import React from "react"
 import List from "./List"
-import dp from "../images/WhatsApp Image 2021-02-05 at 23.26.22.jpeg"
+import dp1 from "../images/res.jpg"
+
 const Skills=()=>{
   return(
             <div className="section" id="skills">
@@ -9,7 +10,7 @@ const Skills=()=>{
                 <div className="row card-body">
 
                          <div className="  col-lg-6">
-                            <div style={{textAlign: "center"}}><img className="img" src={dp}></img></div>
+                            <div style={{textAlign: "center"}}><img className="img" src={dp1}></img></div>
                             <div>
                             <h2 style={{textAlign: "center",
                               fontSize: "1.57rem", margin:"2rem 0"}}>
