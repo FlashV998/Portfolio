@@ -1,3 +1,6 @@
+# This Project is hosted on Heroku as well
+link to the website is: https://brewstore.herokuapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
