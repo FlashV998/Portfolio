@@ -1,5 +1,5 @@
 # This Project is hosted on Heroku as well
-link to the website is: https://brewstore.herokuapp.com/
+link to the website is: https://brewstoreapp.herokuapp.com/
 
 # Getting Started with Create React App
 
